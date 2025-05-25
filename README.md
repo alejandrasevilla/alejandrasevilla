@@ -26,5 +26,5 @@ Bilingual (English & Spanish) | Based in Houston, TX
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandra-sevilla-m)
-- 🌐 Portfolio coming soon
+- [LinkedIn](https://www.linkedin.com/in/alejandra-sevilla-m)
+- Portfolio coming soon
