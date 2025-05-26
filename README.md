@@ -11,7 +11,8 @@ Bilingual (English & Spanish) | Based in Houston, TX
 - [**British Airways Customer Behavior Analysis**](https://github.com/alejandrasevilla/ba-customer-behavior-analysis)  
   Web scraping + NLP on airline reviews, and a Random Forest model to predict booking completion
 
-- **Museum Revenue & Risk Forecasting** – Classification and clustering models to analyze financial health of U.S. museums *(coming soon)*
+- [**Museum Revenue & Risk Forecasting**](https://github.com/alejandrasevilla/museum-financial-analysis)  
+  Classification models to predict museum revenue tier and profitability using U.S. IMLS data; includes EDA, modeling, and policy recommendations
 
 - **Superstore Performance Analytics** – Data cleaning, dashboarding, and segmentation for operational insights *(coming soon)*
 
