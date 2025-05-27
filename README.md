@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alejandra Sevilla
+# Hi there, I'm Alejandra Sevilla
 
 M.S. Analytics – Georgia Tech  
 Applied Data Scientist focused on interpretable ML, real-world impact, and responsible AI  
@@ -6,7 +6,7 @@ Bilingual (English & Spanish) | Based in Houston, TX
 
 ---
 
-## 💼 Projects
+## Projects
 
 - [**British Airways Customer Behavior Analysis**](https://github.com/alejandrasevilla/ba-customer-behavior-analysis)  
   Web scraping + NLP on airline reviews, and a Random Forest model to predict booking completion
@@ -18,7 +18,7 @@ Bilingual (English & Spanish) | Based in Houston, TX
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 `Python` · `pandas` · `scikit-learn` · `PyCaret` · `SQL`  
 `Power BI` (DAX) · `Tableau` · `Seaborn` · `Matplotlib`  
@@ -27,7 +27,7 @@ Bilingual (English & Spanish) | Based in Houston, TX
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alejandra-sevilla-m)
 - Portfolio coming soon
